@@ -1,0 +1,15 @@
+D:\D\sachiro\Programireba\BTU\OOP_Practise\OOP_Practise\bin\Debug\net6.0\OOP_Practise.exe
+D:\D\sachiro\Programireba\BTU\OOP_Practise\OOP_Practise\bin\Debug\net6.0\OOP_Practise.deps.json
+D:\D\sachiro\Programireba\BTU\OOP_Practise\OOP_Practise\bin\Debug\net6.0\OOP_Practise.runtimeconfig.json
+D:\D\sachiro\Programireba\BTU\OOP_Practise\OOP_Practise\bin\Debug\net6.0\OOP_Practise.dll
+D:\D\sachiro\Programireba\BTU\OOP_Practise\OOP_Practise\bin\Debug\net6.0\ref\OOP_Practise.dll
+D:\D\sachiro\Programireba\BTU\OOP_Practise\OOP_Practise\bin\Debug\net6.0\OOP_Practise.pdb
+D:\D\sachiro\Programireba\BTU\OOP_Practise\OOP_Practise\obj\Debug\net6.0\OOP_Practise.csproj.AssemblyReference.cache
+D:\D\sachiro\Programireba\BTU\OOP_Practise\OOP_Practise\obj\Debug\net6.0\OOP_Practise.GeneratedMSBuildEditorConfig.editorconfig
+D:\D\sachiro\Programireba\BTU\OOP_Practise\OOP_Practise\obj\Debug\net6.0\OOP_Practise.AssemblyInfoInputs.cache
+D:\D\sachiro\Programireba\BTU\OOP_Practise\OOP_Practise\obj\Debug\net6.0\OOP_Practise.AssemblyInfo.cs
+D:\D\sachiro\Programireba\BTU\OOP_Practise\OOP_Practise\obj\Debug\net6.0\OOP_Practise.csproj.CoreCompileInputs.cache
+D:\D\sachiro\Programireba\BTU\OOP_Practise\OOP_Practise\obj\Debug\net6.0\OOP_Practise.dll
+D:\D\sachiro\Programireba\BTU\OOP_Practise\OOP_Practise\obj\Debug\net6.0\ref\OOP_Practise.dll
+D:\D\sachiro\Programireba\BTU\OOP_Practise\OOP_Practise\obj\Debug\net6.0\OOP_Practise.pdb
+D:\D\sachiro\Programireba\BTU\OOP_Practise\OOP_Practise\obj\Debug\net6.0\OOP_Practise.genruntimeconfig.cache
